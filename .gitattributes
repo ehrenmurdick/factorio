@@ -1,1 +1,8 @@
 github.zip filter=lfs diff=lfs merge=lfs -text
+_autosave2.zip filter=lfs diff=lfs merge=lfs -text
+_autosave3.zip filter=lfs diff=lfs merge=lfs -text
+pipline.zip filter=lfs diff=lfs merge=lfs -text
+promising.zip filter=lfs diff=lfs merge=lfs -text
+walex.zip filter=lfs diff=lfs merge=lfs -text
+weric.zip filter=lfs diff=lfs merge=lfs -text
+_autosave1.zip filter=lfs diff=lfs merge=lfs -text
